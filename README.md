@@ -6,6 +6,9 @@ https://economic-kettle-c2e.notion.site/CatGame-1d5c01e9d6ba81a283a1e4b16fafdd42
 게임 빌드 파일 링크
 https://drive.google.com/file/d/1zY8RaFos-u0DKweQOnKHK1zAP83H7Syo/view?usp=drive_link
 
+게임 영상 유튜브 링크
+https://youtu.be/SsSXJvTPoA4
+
 고양이를 움직여 하늘에서 떨어지는 화살들을 피해 점수를 획득하자!
 
 유니티 입문 수업에서 제공된 코드를 참고하며 따라 만든 학습용 프로젝트입니다.  
